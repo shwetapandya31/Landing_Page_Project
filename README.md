@@ -1,5 +1,5 @@
 # STRAT_OS Landing Page Project
-landing-page-project-smoky-seven.vercel.app
+[landing-page-project-smoky-seven.vercel.app](https://vercel.com/shwetapandya31s-projects/landing-page-project )
 ## Overview
 This project is a modern, responsive landing page designed for an IT infrastructure startup, tech company, or SaaS business called **STRAT_OS**. It showcases a professional, premium design aimed at enterprise clients who need to scale their infrastructure with intelligence. 
 
